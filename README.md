@@ -1,4 +1,4 @@
-# Matplotlib Homework - The Power of Plots
+# lab-mice-tumor-growth-analysis
 
 ## Background
 
